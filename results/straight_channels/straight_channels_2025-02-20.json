@@ -1,0 +1,16 @@
+{
+    "straight_channels": {
+        "Flow solver": 1630.35,
+        "Thermal solver": 264.43,
+        "Viscosity coupled solver": null,
+        "Total solver": 1894.78,
+        "DOF": 3863627.0
+    },
+    "straight_channels_viscosity_coupled": {
+        "Flow solver": null,
+        "Thermal solver": null,
+        "Viscosity coupled solver": 5298.24,
+        "Total solver": 5298.24,
+        "DOF": 3863627.0
+    }
+}
